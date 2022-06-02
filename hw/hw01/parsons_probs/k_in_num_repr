@@ -1,0 +1,10 @@
+def k_in_num(k, num): #0given
+# !BLANK #1given #blank对num一位位寻找是否存在k
+while !BLANK:  #1given #blanknum !=0 
+if !BLANK == !BLANK % 10:  #2given #blankk #blanknum
+return True #3given
+!BLANK = !BLANK // 10  #2given #blanknum #blanknum
+# !BLANK #1given #blank没找到
+return False #1given
+print('DEBUG:', !BLANK)
+print('DEBUG:', !BLANK)
